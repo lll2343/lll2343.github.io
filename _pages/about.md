@@ -22,13 +22,13 @@ Please feel free to reach out to me via email: [liuyangzhou@smail.nju.edu.cn](li
 
 - Weiyun Wang, Zhangwei Gao, Lianjie Chen, Zhe Chen, Jinguo Zhu, Xiangyu Zhao, **Yangzhou Liu**, Yue Cao, Shenglong Ye, Xizhou Zhu, Lewei Lu, Haodong Duan, Yu Qiao, Jifeng Dai, Wenhai Wang (2025). [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291).
 
-- Zhe Chen*, Weiyun Wang*, Yue Cao*, **Yangzhou Liu\***, Zhangwei Gao*, Erfei Cui*, Jinguo Zhu*, Shenglong Ye*, Hao Tian*, Zhaoyang Liu*, Lixin Gu, Xuehui Wang, Qingyun Li, Yimin Ren, Zixuan Chen, Jiapeng Luo, Jiahao Wang, Tan Jiang, Bo Wang, Conghui He, Botian Shi, Xingcheng Zhang, Han Lv, Yi Wang, Wenqi Shao, Pei Chu, Zhongying Tu, Tong He, Zhiyong Wu, Huipeng Deng, Jiaye Ge, Kai Chen, Kaipeng Zhang, Limin Wang, Min Dou, Lewei Lu, Xizhou Zhu, Tong Lu, Dahua Lin, Yu Qiao, Jifeng Dai, Wenhai Wang (2024). [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271).
+- Zhe Chen\*, Weiyun Wang\*, Yue Cao\*, **Yangzhou Liu\***, Zhangwei Gao\*, Erfei Cui\*, Jinguo Zhu\*, Shenglong Ye\*, Hao Tian\*, Zhaoyang Liu\*, Lixin Gu, Xuehui Wang, Qingyun Li, Yimin Ren, Zixuan Chen, Jiapeng Luo, Jiahao Wang, Tan Jiang, Bo Wang, Conghui He, Botian Shi, Xingcheng Zhang, Han Lv, Yi Wang, Wenqi Shao, Pei Chu, Zhongying Tu, Tong He, Zhiyong Wu, Huipeng Deng, Jiaye Ge, Kai Chen, Kaipeng Zhang, Limin Wang, Min Dou, Lewei Lu, Xizhou Zhu, Tong Lu, Dahua Lin, Yu Qiao, Jifeng Dai, Wenhai Wang (2024). [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271).
 
 - Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, **Yangzhou Liu**, Zhangwei Gao, Jinguo Zhu, Xizhou Zhu, Lewei Lu, Yu Qiao, Jifeng Dai (2024). [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](https://arxiv.org/abs/2411.10442).
 
-- Yue Cao*, **Yangzhou Liu\***, Zhe Chen, Guangchen Shi, Wenhai Wang, Danhuai Zhao, Tong Lu (2024). [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](https://arxiv.org/abs/2410.11829).
+- Yue Cao\*, **Yangzhou Liu\***, Zhe Chen, Guangchen Shi, Wenhai Wang, Danhuai Zhao, Tong Lu (2024). [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](https://arxiv.org/abs/2410.11829).
 
-- **Yangzhou Liu\***, Yue Cao*, Zhangwei Gao*, Weiyun Wang*, Zhe Chen*, Wenhai Wang*, Hao Tian, Lewei Lu, Xizhou Zhu, Tong Lu, Yu Qiao, Jifeng Dai (2024). [MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://link.springer.com/article/10.1007/s11432-024-4187-3). SCIS.
+- **Yangzhou Liu\***, Yue Cao\*, Zhangwei Gao\*, Weiyun Wang\*, Zhe Chen\*, Wenhai Wang\*, Hao Tian, Lewei Lu, Xizhou Zhu, Tong Lu, Yu Qiao, Jifeng Dai (2024). [MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://link.springer.com/article/10.1007/s11432-024-4187-3). SCIS.
 
 # 📖 Educations
 
