@@ -12,7 +12,7 @@ redirect_from:
 
  Hello, I am Yangzhou Liu, a master student at Nanjing University, under the mentorship of [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/). Previously, I received my bachelor’s degrees in Computer Science and Financial Engineering from Sichuan University. I am expected to graduate in June 2026, if all goes well.
 
-**Currently, I am actively seeking entry-level positions as a AI Engineer.**
+**Currently, I am actively seeking full-time job opportunities in multimodal modeling.**
 
 Please feel free to reach out to me via email: [liuyangzhou@smail.nju.edu.cn](liuyangzhou@smail.nju.edu.cn) or [lyzlll2343@gmail.com](lyzlll2343@gmail.com)
 
